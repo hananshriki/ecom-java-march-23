@@ -2,7 +2,7 @@ package lesson_01;
 
 public class Veriabel {
     public static void main(String[] args) {
-       byte myByte = 25;
+       byte myByte = 50;
        short myShort;
        myShort = 345;
        int myInt = 466666;
